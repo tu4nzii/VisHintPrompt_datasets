@@ -1,0 +1,62 @@
+{
+  "chart_id": "line_094",
+  "title": "",
+  "dpi": 120,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 12,
+  "palette": [
+    "#e377c2",
+    "#7f7f7f",
+    "#bcbd22",
+    "#17becf"
+  ],
+  "sample_size": 3,
+  "series_color": {
+    "Rep Rep/Lean": "#e377c2",
+    "Dem Lean Dem": "#7f7f7f",
+    "Total": "#bcbd22"
+  },
+  "x_ticks": [
+    "2018",
+    "2019",
+    "2020"
+  ],
+  "y_ticks": [
+    0.0,
+    20.0,
+    40.0,
+    60.0,
+    80.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0,
+    80.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": true
+}

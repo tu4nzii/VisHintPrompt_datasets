@@ -1,0 +1,62 @@
+{
+  "chart_id": "line_157",
+  "title": "",
+  "dpi": 120,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 12,
+  "palette": [
+    "#d62728",
+    "#9467bd",
+    "#8c564b"
+  ],
+  "sample_size": 2,
+  "series_color": {
+    "Being tough with China on territorial disputes": "#d62728",
+    "Having strong a economic relationship with China": "#9467bd"
+  },
+  "x_ticks": [
+    "2015",
+    "2017"
+  ],
+  "y_ticks": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    5.0,
+    10.0,
+    15.0,
+    20.0,
+    25.0,
+    30.0,
+    35.0,
+    40.0,
+    45.0,
+    50.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": true
+}

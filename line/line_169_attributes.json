@@ -1,0 +1,66 @@
+{
+  "chart_id": "line_169",
+  "title": "",
+  "dpi": 100,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 10,
+  "palette": [
+    "#d62728",
+    "#9467bd",
+    "#8c564b"
+  ],
+  "sample_size": 6,
+  "series_color": {
+    "in Confidence U.S. president": "#d62728",
+    "Favorable view of U.S.": "#9467bd"
+  },
+  "x_ticks": [
+    "2002",
+    "2005",
+    "2008",
+    "2011",
+    "2014",
+    "2017"
+  ],
+  "y_ticks": [
+    0.0,
+    1000.0,
+    2000.0,
+    3000.0,
+    4000.0,
+    5000.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    500.0,
+    1000.0,
+    1500.0,
+    2000.0,
+    2500.0,
+    3000.0,
+    3500.0,
+    4000.0,
+    4500.0,
+    5000.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": false
+}

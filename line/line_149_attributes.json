@@ -1,0 +1,70 @@
+{
+  "chart_id": "line_149",
+  "title": "",
+  "dpi": 120,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 12,
+  "palette": [
+    "#e377c2",
+    "#7f7f7f",
+    "#bcbd22",
+    "#17becf"
+  ],
+  "sample_size": 4,
+  "series_color": {
+    "Favorable view of China": "#e377c2",
+    "Favorable view of U.S.": "#7f7f7f",
+    "Confidence in the U.S. president": "#bcbd22",
+    "Confidence in Xi Jinping": "#17becf"
+  },
+  "x_ticks": [
+    "2014",
+    "2015",
+    "2016",
+    "2017"
+  ],
+  "y_ticks": [
+    0.0,
+    1000.0,
+    2000.0,
+    3000.0,
+    4000.0,
+    5000.0,
+    6000.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    500.0,
+    1000.0,
+    1500.0,
+    2000.0,
+    2500.0,
+    3000.0,
+    3500.0,
+    4000.0,
+    4500.0,
+    5000.0,
+    5500.0,
+    6000.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": false
+}

@@ -1,0 +1,64 @@
+{
+  "chart_id": "line_092",
+  "title": "",
+  "dpi": 100,
+  "fig_size": [
+    6,
+    4
+  ],
+  "font_size": 10,
+  "palette": [
+    "#1f77b4",
+    "#ff7f0e",
+    "#2ca02c"
+  ],
+  "sample_size": 6,
+  "series_color": {
+    "Mostly bad news": "#1f77b4",
+    "Mostly good news": "#ff7f0e",
+    "Mix of good and bad news": "#2ca02c"
+  },
+  "x_ticks": [
+    "Dec 2008",
+    "Jul 2009",
+    "Jan 2010",
+    "Jul 2010",
+    "Jan 2011",
+    "Jul 2011"
+  ],
+  "y_ticks": [
+    0.0,
+    20.0,
+    40.0,
+    60.0,
+    80.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0,
+    80.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": false
+}

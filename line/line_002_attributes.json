@@ -1,0 +1,64 @@
+{
+  "chart_id": "line_002",
+  "title": "",
+  "dpi": 100,
+  "fig_size": [
+    6,
+    4
+  ],
+  "font_size": 10,
+  "palette": [
+    "#e377c2",
+    "#7f7f7f",
+    "#bcbd22",
+    "#17becf"
+  ],
+  "sample_size": 5,
+  "series_color": {
+    "Making progress": "#e377c2",
+    "Losing ground": "#7f7f7f",
+    "Same": "#bcbd22"
+  },
+  "x_ticks": [
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015"
+  ],
+  "y_ticks": [
+    0.0,
+    50.0,
+    100.0,
+    150.0,
+    200.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    25.0,
+    50.0,
+    75.0,
+    100.0,
+    125.0,
+    150.0,
+    175.0,
+    200.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": true
+}

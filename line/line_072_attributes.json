@@ -1,0 +1,67 @@
+{
+  "chart_id": "line_072",
+  "title": "",
+  "dpi": 100,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 10,
+  "palette": [
+    "#d62728",
+    "#9467bd",
+    "#8c564b"
+  ],
+  "sample_size": 4,
+  "series_color": {
+    "Illegal in all) most cases": "#d62728",
+    "Legal in all /most cases": "#9467bd"
+  },
+  "x_ticks": [
+    "1995",
+    "2001",
+    "2007",
+    "2013"
+  ],
+  "y_ticks": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    5.0,
+    10.0,
+    15.0,
+    20.0,
+    25.0,
+    30.0,
+    35.0,
+    40.0,
+    45.0,
+    50.0,
+    55.0,
+    60.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": true
+}

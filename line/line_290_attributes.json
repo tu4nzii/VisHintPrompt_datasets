@@ -1,0 +1,82 @@
+{
+  "chart_id": "line_290",
+  "title": "",
+  "dpi": 100,
+  "fig_size": [
+    6,
+    4
+  ],
+  "font_size": 10,
+  "palette": [
+    "#e377c2",
+    "#7f7f7f",
+    "#bcbd22",
+    "#17becf"
+  ],
+  "sample_size": 8,
+  "series_color": {
+    "Adult costumes": "#e377c2",
+    "Children's costumes": "#7f7f7f",
+    "Pet costumes": "#bcbd22"
+  },
+  "x_ticks": [
+    "2017",
+    "2016",
+    "2015",
+    "2014",
+    "2013",
+    "2012",
+    "2011",
+    "2010"
+  ],
+  "y_ticks": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0,
+    1.2,
+    1.4,
+    1.6,
+    1.8
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0,
+    1.1,
+    1.2,
+    1.3,
+    1.4,
+    1.5,
+    1.6,
+    1.7,
+    1.8
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": false
+}

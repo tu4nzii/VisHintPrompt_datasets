@@ -1,0 +1,70 @@
+{
+  "chart_id": "line_124",
+  "title": "",
+  "dpi": 100,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 10,
+  "palette": [
+    "#d62728",
+    "#9467bd",
+    "#8c564b"
+  ],
+  "sample_size": 4,
+  "series_color": {
+    "NET Excellent/ good": "#d62728",
+    "NET Only fair/ poor": "#9467bd"
+  },
+  "x_ticks": [
+    "Feb 2014",
+    "June 2015",
+    "Jan 2018",
+    "Sept. 2018"
+  ],
+  "y_ticks": [
+    0.0,
+    50.0,
+    100.0,
+    150.0,
+    200.0,
+    250.0,
+    300.0,
+    350.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    25.0,
+    50.0,
+    75.0,
+    100.0,
+    125.0,
+    150.0,
+    175.0,
+    200.0,
+    225.0,
+    250.0,
+    275.0,
+    300.0,
+    325.0,
+    350.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": false
+}

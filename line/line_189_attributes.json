@@ -1,0 +1,71 @@
+{
+  "chart_id": "line_189",
+  "title": "",
+  "dpi": 120,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 12,
+  "palette": [
+    "#d62728",
+    "#9467bd",
+    "#8c564b"
+  ],
+  "sample_size": 7,
+  "series_color": {
+    "Can't rate": "#d62728",
+    "Unfavorable": "#9467bd",
+    "Favorable": "#8c564b"
+  },
+  "x_ticks": [
+    "MAR 2013",
+    "SEPT 201",
+    "FEB 2014",
+    "FEB 2015",
+    "JUN 2015",
+    "OLOCT 20",
+    "JAN 2017"
+  ],
+  "y_ticks": [
+    0.0,
+    20.0,
+    40.0,
+    60.0,
+    80.0,
+    100.0,
+    120.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0,
+    80.0,
+    90.0,
+    100.0,
+    110.0,
+    120.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": false
+}

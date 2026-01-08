@@ -1,0 +1,73 @@
+{
+  "chart_id": "line_097",
+  "title": "",
+  "dpi": 100,
+  "fig_size": [
+    6,
+    4
+  ],
+  "font_size": 12,
+  "palette": [
+    "#e377c2",
+    "#7f7f7f",
+    "#bcbd22",
+    "#17becf"
+  ],
+  "sample_size": 6,
+  "series_color": {
+    "Favor": "#e377c2",
+    "Oppose": "#7f7f7f"
+  },
+  "x_ticks": [
+    "Sept 200",
+    "Apr 2009",
+    "Feb 2010",
+    "June 201",
+    "Oct 2010",
+    "Mar 2011"
+  ],
+  "y_ticks": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    5.0,
+    10.0,
+    15.0,
+    20.0,
+    25.0,
+    30.0,
+    35.0,
+    40.0,
+    45.0,
+    50.0,
+    55.0,
+    60.0,
+    65.0,
+    70.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": true
+}

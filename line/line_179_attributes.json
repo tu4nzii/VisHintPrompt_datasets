@@ -1,0 +1,66 @@
+{
+  "chart_id": "line_179",
+  "title": "",
+  "dpi": 120,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 12,
+  "palette": [
+    "#d62728",
+    "#9467bd",
+    "#8c564b"
+  ],
+  "sample_size": 7,
+  "series_color": {
+    "Values": "#d62728"
+  },
+  "x_ticks": [
+    "Oct.",
+    "Nov,",
+    "Dec",
+    "Jan",
+    "Feb,",
+    "Mar,",
+    "Apr."
+  ],
+  "y_ticks": [
+    0.0,
+    2000.0,
+    4000.0,
+    6000.0,
+    8000.0,
+    10000.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    1000.0,
+    2000.0,
+    3000.0,
+    4000.0,
+    5000.0,
+    6000.0,
+    7000.0,
+    8000.0,
+    9000.0,
+    10000.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": false
+}

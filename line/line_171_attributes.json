@@ -1,0 +1,64 @@
+{
+  "chart_id": "line_171",
+  "title": "",
+  "dpi": 120,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 10,
+  "palette": [
+    "#1f77b4",
+    "#ff7f0e",
+    "#2ca02c"
+  ],
+  "sample_size": 4,
+  "series_color": {
+    "No": "#1f77b4",
+    "Yes": "#ff7f0e"
+  },
+  "x_ticks": [
+    "2014",
+    "2015",
+    "2016",
+    "2017"
+  ],
+  "y_ticks": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    5.0,
+    10.0,
+    15.0,
+    20.0,
+    25.0,
+    30.0,
+    35.0,
+    40.0,
+    45.0,
+    50.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": true
+}

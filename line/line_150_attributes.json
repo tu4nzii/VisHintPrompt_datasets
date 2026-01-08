@@ -1,0 +1,59 @@
+{
+  "chart_id": "line_150",
+  "title": "",
+  "dpi": 120,
+  "fig_size": [
+    8,
+    5
+  ],
+  "font_size": 10,
+  "palette": [
+    "#d62728",
+    "#9467bd",
+    "#8c564b"
+  ],
+  "sample_size": 2,
+  "series_color": {
+    "Dem/Lean Dem": "#d62728",
+    "Rep/Lean Rep": "#9467bd"
+  },
+  "x_ticks": [
+    "2013",
+    "2017"
+  ],
+  "y_ticks": [
+    0.0,
+    200.0,
+    400.0,
+    600.0,
+    800.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    100.0,
+    200.0,
+    300.0,
+    400.0,
+    500.0,
+    600.0,
+    700.0,
+    800.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": false
+}

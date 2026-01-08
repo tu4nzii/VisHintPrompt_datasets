@@ -1,0 +1,66 @@
+{
+  "chart_id": "line_043",
+  "title": "",
+  "dpi": 120,
+  "fig_size": [
+    6,
+    4
+  ],
+  "font_size": 12,
+  "palette": [
+    "#1f77b4",
+    "#ff7f0e",
+    "#2ca02c"
+  ],
+  "sample_size": 5,
+  "series_color": {
+    "Less important powerful and role than 10 years ago": "#1f77b4",
+    "More important and powerful role than 10 years ago": "#ff7f0e",
+    "As important and powerful role as 10 years ago": "#2ca02c"
+  },
+  "x_ticks": [
+    "1974",
+    "1984",
+    "1994",
+    "2004",
+    "2014"
+  ],
+  "y_ticks": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0
+  ],
+  "y_ticks_encrypted": [
+    0.0,
+    5.0,
+    10.0,
+    15.0,
+    20.0,
+    25.0,
+    30.0,
+    35.0,
+    40.0,
+    45.0,
+    50.0
+  ],
+  "random_seed": 42,
+  "marker_types": [
+    "o",
+    "s",
+    "D",
+    "^",
+    "v",
+    "p",
+    "*"
+  ],
+  "line_styles": [
+    "-",
+    "--",
+    "-.",
+    ":"
+  ],
+  "show_markers": false
+}
