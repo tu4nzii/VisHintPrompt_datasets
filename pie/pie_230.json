@@ -1,0 +1,30 @@
+﻿{
+  "chart_id": "230",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_230.png"
+  },
+  "data_points": {
+    "nan": 360.0
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "nan": "#666666"
+  }
+}

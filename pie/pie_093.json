@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "093",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_093.png"
+  },
+  "data_points": {
+    "Congress": 241.32,
+    "Obama": 118.68
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Congress": "#b3cde3",
+    "Obama": "#1b9e77"
+  }
+}

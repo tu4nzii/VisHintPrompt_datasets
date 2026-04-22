@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "070",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_070.png"
+  },
+  "data_points": {
+    "Don't know": 14.4,
+    "Other/ None": 50.4,
+    "BJP": 226.8,
+    "INC": 68.4
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Don't know": "#80b1d3",
+    "Other/ None": "#bcbd22",
+    "BJP": "#7fc97f",
+    "INC": "#1b9e77"
+  }
+}

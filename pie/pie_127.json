@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "127",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_127.png"
+  },
+  "data_points": {
+    "After the  presidential inauguration in January": 22.25,
+    "NET Necessary": 161.8,
+    "As soon as possible, by the current  Congress and President Trump": 137.53,
+    "Not necessary": 38.43
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "After the  presidential inauguration in January": "#7fc97f",
+    "NET Necessary": "#b3cde3",
+    "As soon as possible, by the current  Congress and President Trump": "#ff9896",
+    "Not necessary": "#beaed4"
+  }
+}

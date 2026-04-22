@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "235",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_235.png"
+  },
+  "data_points": {
+    "Housing": 58.91,
+    "": 261.82,
+    "Other": 39.27
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Housing": "#ffffcc",
+    "": "#2ca02c",
+    "Other": "#dbdb8d"
+  }
+}

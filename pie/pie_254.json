@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "254",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_254.png"
+  },
+  "data_points": {
+    "Credit Institutions": 319.62,
+    "Money Market Funds": 24.75,
+    "Other Financial Institutions": 13.91,
+    "Central Bank (NCBs / ECB)": 1.72
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Credit Institutions": "#ffffb3",
+    "Money Market Funds": "#e6ab02",
+    "Other Financial Institutions": "#bebada",
+    "Central Bank (NCBs / ECB)": "#fccde5"
+  }
+}

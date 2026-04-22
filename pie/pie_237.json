@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "237",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_237.png"
+  },
+  "data_points": {
+    "Dont know/ Refused": 360.0
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Dont know/ Refused": "#fccde5"
+  }
+}

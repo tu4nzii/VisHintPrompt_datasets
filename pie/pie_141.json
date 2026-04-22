@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "141",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_141.png"
+  },
+  "data_points": {
+    "Not essential": 136.8,
+    "DK": 14.4,
+    "Essential": 208.8
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Not essential": "#aec7e8",
+    "DK": "#80b1d3",
+    "Essential": "#ff9896"
+  }
+}

@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "207",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_207.png"
+  },
+  "data_points": {
+    "Widowed": 46.34,
+    "Never married": 96.24,
+    "Divorced": 196.04,
+    "Separated": 21.39
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Widowed": "#8c564b",
+    "Never married": "#d95f02",
+    "Divorced": "#fbb4ae",
+    "Separated": "#f2f2f2"
+  }
+}

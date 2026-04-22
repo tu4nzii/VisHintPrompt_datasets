@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "201",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_201.png"
+  },
+  "data_points": {
+    "To be creative and think independently": 158.4,
+    "Both (VOL)": 100.8,
+    "Basic academic skills and encourage discipline": 82.8,
+    "Neither (VOL) Don't know": 18.0
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "To be creative and think independently": "#17becf",
+    "Both (VOL)": "#9467bd",
+    "Basic academic skills and encourage discipline": "#f0027f",
+    "Neither (VOL) Don't know": "#fb8072"
+  }
+}

@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "200",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_200.png"
+  },
+  "data_points": {
+    "Are not sure if they wantto get married": 98.18,
+    "Don't wantto get married": 50.91,
+    "Want to get married someday": 210.91
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Are not sure if they wantto get married": "#ffffcc",
+    "Don't wantto get married": "#ffed6f",
+    "Want to get married someday": "#bcbd22"
+  }
+}

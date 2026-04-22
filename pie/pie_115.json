@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "115",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_115.png"
+  },
+  "data_points": {
+    "DK": 10.69,
+    "Support": 302.97,
+    "Oppose": 46.34
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "DK": "#ccebc5",
+    "Support": "#dbdb8d",
+    "Oppose": "#ff9896"
+  }
+}

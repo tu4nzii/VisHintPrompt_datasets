@@ -1,0 +1,42 @@
+﻿{
+  "chart_id": "144",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_144.png"
+  },
+  "data_points": {
+    "The Middle East": 12.86,
+    "Both equally important (Vol)": 19.03,
+    "Neither (Vol)": 3.09,
+    "Europe": 8.74,
+    "DK (Vol)": 316.29
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "The Middle East": "#fdb462",
+    "Both equally important (Vol)": "#e377c2",
+    "Neither (Vol)": "#a6761d",
+    "Europe": "#f0027f",
+    "DK (Vol)": "#7570b3"
+  }
+}

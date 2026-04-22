@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "086",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_086.png"
+  },
+  "data_points": {
+    "Developing alternative sources": 206.73,
+    "Expanding ool, coal and natural gas": 121.19,
+    "Both I DK": 32.08
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Developing alternative sources": "#d62728",
+    "Expanding ool, coal and natural gas": "#ccebc5",
+    "Both I DK": "#e6ab02"
+  }
+}

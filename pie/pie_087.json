@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "087",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_087.png"
+  },
+  "data_points": {
+    "Disapprove": 214.55,
+    "DK/ Ref": 47.27,
+    "Approve": 98.18
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Disapprove": "#c49c94",
+    "DK/ Ref": "#9edae5",
+    "Approve": "#1b9e77"
+  }
+}

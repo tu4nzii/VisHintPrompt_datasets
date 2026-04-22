@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "096",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_096.png"
+  },
+  "data_points": {
+    "Works pretty well, only nee ds minor changes": 112.73,
+    "Don't know": 7.27,
+    "Needs major changes": 163.64,
+    "Needs to be rebuilt": 76.36
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Works pretty well, only nee ds minor changes": "#beaed4",
+    "Don't know": "#80b1d3",
+    "Needs major changes": "#fdc086",
+    "Needs to be rebuilt": "#dbdb8d"
+  }
+}

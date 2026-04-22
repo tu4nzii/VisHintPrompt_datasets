@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "081",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_081.png"
+  },
+  "data_points": {
+    "Only Television": 234.0,
+    "Only Online": 21.6,
+    "Both": 97.2,
+    "Don't Know": 7.2
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Only Television": "#fccde5",
+    "Only Online": "#fdc086",
+    "Both": "#8dd3c7",
+    "Don't Know": "#1f77b4"
+  }
+}

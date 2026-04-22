@@ -1,0 +1,42 @@
+﻿{
+  "chart_id": "236",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_236.png"
+  },
+  "data_points": {
+    "Hiloni": 174.65,
+    "Haredi": 32.08,
+    "Other <": 3.56,
+    "Masorti": 103.37,
+    "Dati": 46.34
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Hiloni": "#98df8a",
+    "Haredi": "#d95f02",
+    "Other <": "#e7298a",
+    "Masorti": "#fddaec",
+    "Dati": "#beaed4"
+  }
+}

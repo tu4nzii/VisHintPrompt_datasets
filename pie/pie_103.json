@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "103",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_103.png"
+  },
+  "data_points": {
+    "Religion is very important in their lives": 1.74,
+    "RELIGIOUSLY UNAFFILIATED": 4.92,
+    "RELIGIOUSLY RELIGIOUSLY AFFILIATED UNAFFILIATED  Religion is less important in  their lives": 353.34
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Religion is very important in their lives": "#e6ab02",
+    "RELIGIOUSLY UNAFFILIATED": "#d62728",
+    "RELIGIOUSLY RELIGIOUSLY AFFILIATED UNAFFILIATED  Religion is less important in  their lives": "#8c564b"
+  }
+}

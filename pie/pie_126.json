@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "126",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_126.png"
+  },
+  "data_points": {
+    "Yes, w/o authorization": 68.4,
+    "Yes, with authorization": 64.8,
+    "No": 219.6,
+    "DK": 7.2
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Yes, w/o authorization": "#d9d9d9",
+    "Yes, with authorization": "#666666",
+    "No": "#bc80bd",
+    "DK": "#beaed4"
+  }
+}

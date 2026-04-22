@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "064",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_064.png"
+  },
+  "data_points": {
+    "was": 25.2,
+    "German gov't": 234.0,
+    "EU": 100.8
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "was": "#ff9896",
+    "German gov't": "#beaed4",
+    "EU": "#f0027f"
+  }
+}

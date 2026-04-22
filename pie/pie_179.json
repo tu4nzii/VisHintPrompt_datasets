@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "179",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_179.png"
+  },
+  "data_points": {
+    "Do not wish they had voted in the election": 138.18,
+    "Wish they had voted in the election": 221.82
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Do not wish they had voted in the election": "#2ca02c",
+    "Wish they had voted in the election": "#9467bd"
+  }
+}

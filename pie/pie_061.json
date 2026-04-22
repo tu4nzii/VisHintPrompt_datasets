@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "061",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_061.png"
+  },
+  "data_points": {
+    "Very big problem,": 324.0,
+    "Moderately big problem,": 25.2,
+    "Small problem) Nota problem": 10.8
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Very big problem,": "#9edae5",
+    "Moderately big problem,": "#decbe4",
+    "Small problem) Nota problem": "#fdb462"
+  }
+}

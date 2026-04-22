@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "085",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_085.png"
+  },
+  "data_points": {
+    "Mostly about how the law might impact people": 21.6,
+    "Balance of the two": 118.8,
+    "Mostly about politics and controversies": 201.6,
+    "Dk/Ref:": 18.0
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Mostly about how the law might impact people": "#fdc086",
+    "Balance of the two": "#9467bd",
+    "Mostly about politics and controversies": "#b3de69",
+    "Dk/Ref:": "#f2f2f2"
+  }
+}

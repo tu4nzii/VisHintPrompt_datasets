@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "155",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_155.png"
+  },
+  "data_points": {
+    "mix of a good and bad news": 172.8,
+    "DK": 10.8,
+    "Mostly good news": 64.8,
+    "Mostly bad news": 111.6
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "mix of a good and bad news": "#17becf",
+    "DK": "#c7c7c7",
+    "Mostly good news": "#1b9e77",
+    "Mostly bad news": "#666666"
+  }
+}

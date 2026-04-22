@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "121",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_121.png"
+  },
+  "data_points": {
+    "Follow the values and principles of Islam": 114.06,
+    "Not be influenced by the Quran": 21.39,
+    "Strictly follow the Quran": 213.86,
+    "DK": 10.69
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Follow the values and principles of Islam": "#e377c2",
+    "Not be influenced by the Quran": "#d9d9d9",
+    "Strictly follow the Quran": "#ffbb78",
+    "DK": "#8dd3c7"
+  }
+}

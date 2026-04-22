@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "221",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_221.png"
+  },
+  "data_points": {
+    "Not only disagree over plans and policies, butalso cannot agree on basic  facts": 18.95,
+    "Can agree on basic facts, even if they often disagree over  plans": 341.05
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Not only disagree over plans and policies, butalso cannot agree on basic  facts": "#66a61e",
+    "Can agree on basic facts, even if they often disagree over  plans": "#1b9e77"
+  }
+}

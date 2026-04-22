@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "181",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_181.png"
+  },
+  "data_points": {
+    "Which pose serious risk to  their health": 181.78,
+    "But they are in such  small amounts that this does not pose a serious health risk": 171.09,
+    "No answer": 7.13
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Which pose serious risk to  their health": "#9edae5",
+    "But they are in such  small amounts that this does not pose a serious health risk": "#ffff99",
+    "No answer": "#d9d9d9"
+  }
+}

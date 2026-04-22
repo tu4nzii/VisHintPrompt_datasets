@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "082",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_082.png"
+  },
+  "data_points": {
+    "Cut off military aid in order to pressure Egyptian gov't": 183.6,
+    "Continue military aid in order to influence what happens there": 93.6,
+    "DK": 82.8
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Cut off military aid in order to pressure Egyptian gov't": "#ffbb78",
+    "Continue military aid in order to influence what happens there": "#b3cde3",
+    "DK": "#fed9a6"
+  }
+}

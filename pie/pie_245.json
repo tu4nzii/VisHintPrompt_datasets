@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "245",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_245.png"
+  },
+  "data_points": {
+    "romantic online partner": 213.33,
+    "Have met a romantic partner online not": 26.67,
+    "Declined": 3.33,
+    "Have been in a romantic relationship": 116.67
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "romantic online partner": "#1b9e77",
+    "Have met a romantic partner online not": "#f0027f",
+    "Declined": "#98df8a",
+    "Have been in a romantic relationship": "#666666"
+  }
+}

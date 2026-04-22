@@ -1,0 +1,60 @@
+﻿{
+  "chart_id": "536",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_536.png"
+  },
+  "data_points": {
+    "Peer-to-Peer consumer lending": 134.55,
+    "Peer-to-Peer business lending": 46.42,
+    "Invoice trading": 37.39,
+    "Equity-based crowdfunding": 12.95,
+    "Reward-based crowdfunding": 8.17,
+    "Real estate crowdfunding": 27.95,
+    "Peer-to-peer property lending": 6.74,
+    "Balance sheet business lending": 3.75,
+    "Donation-based crowdfunding": 2.91,
+    "Debt-based securities": 7.81,
+    "Balance sheet consumer lending": 4.65,
+    "Mini-Bonds": 1.99,
+    "Revenue Sharing": 0.16,
+    "Balance sheet property lending": 64.19,
+    "Community shares": 0.07,
+    "Other": 0.29
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Peer-to-Peer consumer lending": "#bf5b17",
+    "Peer-to-Peer business lending": "#c7c7c7",
+    "Invoice trading": "#e377c2",
+    "Equity-based crowdfunding": "#17becf",
+    "Reward-based crowdfunding": "#fdb462",
+    "Real estate crowdfunding": "#98df8a",
+    "Peer-to-peer property lending": "#2ca02c",
+    "Balance sheet business lending": "#9edae5",
+    "Donation-based crowdfunding": "#1b9e77",
+    "Debt-based securities": "#bcbd22",
+    "Balance sheet consumer lending": "#ffed6f",
+    "Mini-Bonds": "#c5b0d5",
+    "Revenue Sharing": "#f2f2f2",
+    "Balance sheet property lending": "#dbdb8d",
+    "Community shares": "#f0027f",
+    "Other": "#ff7f0e"
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "063",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_063.png"
+  },
+  "data_points": {
+    "Love it.": 18.0,
+    "Dislike dislike": 108.0,
+    "Hate it": 93.6,
+    "Like it": 104.4,
+    "Don't know": 10.8,
+    "Neither like dislike nor": 25.2
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Love it.": "#ffed6f",
+    "Dislike dislike": "#9edae5",
+    "Hate it": "#d95f02",
+    "Like it": "#b3de69",
+    "Don't know": "#8dd3c7",
+    "Neither like dislike nor": "#d62728"
+  }
+}

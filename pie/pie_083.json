@@ -1,0 +1,42 @@
+﻿{
+  "chart_id": "083",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_083.png"
+  },
+  "data_points": {
+    "Usability problem": 126.38,
+    "Don't know": 3.83,
+    "Access ibility problem": 26.81,
+    "Price": 72.77,
+    "Internet not relevant": 130.21
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Usability problem": "#bf5b17",
+    "Don't know": "#66a61e",
+    "Access ibility problem": "#beaed4",
+    "Price": "#98df8a",
+    "Internet not relevant": "#bc80bd"
+  }
+}

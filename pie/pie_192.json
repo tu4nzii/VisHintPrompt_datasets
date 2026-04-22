@@ -1,0 +1,42 @@
+﻿{
+  "chart_id": "192",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_192.png"
+  },
+  "data_points": {
+    "No control at all": 46.8,
+    "Refused": 10.8,
+    "Some control": 136.8,
+    "Not much control": 133.2,
+    "a lot of control": 32.4
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "No control at all": "#ccebc5",
+    "Refused": "#1b9e77",
+    "Some control": "#c49c94",
+    "Not much control": "#ffbb78",
+    "a lot of control": "#fed9a6"
+  }
+}

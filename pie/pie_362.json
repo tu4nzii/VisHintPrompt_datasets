@@ -1,0 +1,48 @@
+﻿{
+  "chart_id": "362",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_362.png"
+  },
+  "data_points": {
+    "Eastern Mediterranean": 211.5,
+    "Central Mediterranean": 35.54,
+    "Western Balkan": 38.46,
+    "Western Mediterranean": 60.83,
+    "Circular route from Albania to Greece": 4.93,
+    "Eastern border": 1.83,
+    "Western African": 6.9,
+    "Black Sea": 0.01
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Eastern Mediterranean": "#2ca02c",
+    "Central Mediterranean": "#7570b3",
+    "Western Balkan": "#bc80bd",
+    "Western Mediterranean": "#ccebc5",
+    "Circular route from Albania to Greece": "#f7b6d2",
+    "Eastern border": "#8dd3c7",
+    "Western African": "#1f77b4",
+    "Black Sea": "#a6761d"
+  }
+}

@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "091",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_091.png"
+  },
+  "data_points": {
+    "Not much/ no confidence": 194.4,
+    "Great deal/ fair amount of confidence": 100.8,
+    "Don t know": 64.8
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Not much/ no confidence": "#b3cde3",
+    "Great deal/ fair amount of confidence": "#c49c94",
+    "Don t know": "#aec7e8"
+  }
+}

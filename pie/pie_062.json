@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "062",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_062.png"
+  },
+  "data_points": {
+    "Good thing": 39.76,
+    "Bad thing": 11.82
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Good thing": "#fddaec",
+    "Bad thing": "#f7b6d2"
+  }
+}

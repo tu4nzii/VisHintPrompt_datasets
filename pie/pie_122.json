@@ -1,0 +1,42 @@
+﻿{
+  "chart_id": "122",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_122.png"
+  },
+  "data_points": {
+    "Completely agree": 162.0,
+    "DK": 25.2,
+    "Mostly disagree": 36.0,
+    "Mostly agree": 129.6,
+    "Completely disagree": 7.2
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 127,
+  "center": [
+    260,
+    260
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Completely agree": "#fccde5",
+    "DK": "#fddaec",
+    "Mostly disagree": "#beaed4",
+    "Mostly agree": "#ffff99",
+    "Completely disagree": "#17becf"
+  }
+}

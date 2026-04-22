@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "067",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_067.png"
+  },
+  "data_points": {
+    "Don't know (vol.)": 0.63,
+    "Not get too involved in the situation in Ukraine": 236.76,
+    "Take firm a stand against Russian actions": 122.61
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Don't know (vol.)": "#fed9a6",
+    "Not get too involved in the situation in Ukraine": "#aec7e8",
+    "Take firm a stand against Russian actions": "#dbdb8d"
+  }
+}

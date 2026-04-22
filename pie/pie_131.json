@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "131",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_131.png"
+  },
+  "data_points": {
+    "Negative": 75.6,
+    "Neither (Vol)": 223.2,
+    "Positive": 54.0,
+    "DK": 7.2
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Negative": "#e5d8bd",
+    "Neither (Vol)": "#66a61e",
+    "Positive": "#e6ab02",
+    "DK": "#e7298a"
+  }
+}

@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "074",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_074.png"
+  },
+  "data_points": {
+    "Yes, states are still holding primaries": 156.36,
+    "No answer": 3.64,
+    "Not sure": 149.09,
+    "No": 50.91
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Yes, states are still holding primaries": "#ff9896",
+    "No answer": "#e377c2",
+    "Not sure": "#bcbd22",
+    "No": "#66a61e"
+  }
+}

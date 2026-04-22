@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "079",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_079.png"
+  },
+  "data_points": {
+    "Unacceptable": 199.6,
+    "Acceptable": 128.32,
+    "DK": 32.08
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Unacceptable": "#fbb4ae",
+    "Acceptable": "#b3de69",
+    "DK": "#d9d9d9"
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "125",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_125.png"
+  },
+  "data_points": {
+    "Neither /DK (Vol)": 13.81,
+    "U.S": 1.01,
+    "Mexico": 64.43,
+    "Both": 280.75
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Neither /DK (Vol)": "#ff9896",
+    "U.S": "#decbe4",
+    "Mexico": "#98df8a",
+    "Both": "#8c564b"
+  }
+}

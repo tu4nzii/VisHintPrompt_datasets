@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "129",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_129.png"
+  },
+  "data_points": {
+    "No": 126.0,
+    "DK": 64.8,
+    "Yes": 169.2
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "No": "#decbe4",
+    "DK": "#f7b6d2",
+    "Yes": "#bcbd22"
+  }
+}

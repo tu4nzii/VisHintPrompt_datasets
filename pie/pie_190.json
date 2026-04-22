@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "190",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_190.png"
+  },
+  "data_points": {
+    "Are worth the costs  because they allow people to live longer and better quality lives": 174.55,
+    "Often create as many  problems as they solve": 185.45
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Are worth the costs  because they allow people to live longer and better quality lives": "#bf5b17",
+    "Often create as many  problems as they solve": "#fbb4ae"
+  }
+}

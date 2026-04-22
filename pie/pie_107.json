@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "107",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_107.png"
+  },
+  "data_points": {
+    "Could be teleworked": 36.0,
+    "Could not be teleworked": 324.0
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Could be teleworked": "#666666",
+    "Could not be teleworked": "#bcbd22"
+  }
+}

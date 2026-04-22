@@ -1,0 +1,48 @@
+﻿{
+  "chart_id": "268",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_268.png"
+  },
+  "data_points": {
+    "Center-right (EPP)": 85.94,
+    "Center-left (S&D)": 69.71,
+    "Liberals (ALDE)": 52.04,
+    "Greens (EFA)": 32.94,
+    "Conservatives (ECR)": 29.6,
+    "Right-wing nationalists (ENF)": 27.69,
+    "Populists (EFDD)": 25.78,
+    "Left (GUE/NGL)": 18.62,
+    "Others": 13.85,
+    "Independent": 3.82
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Center-right (EPP)": "#b3de69",
+    "Center-left (S&D)": "#e377c2",
+    "Liberals (ALDE)": "#7570b3",
+    "Greens (EFA)": "#a6761d",
+    "Conservatives (ECR)": "#ccebc5",
+    "Right-wing nationalists (ENF)": "#ffffb3",
+    "Populists (EFDD)": "#d95f02",
+    "Left (GUE/NGL)": "#17becf",
+    "Others": "#e7298a",
+    "Independent": "#66a61e"
+  }
+}

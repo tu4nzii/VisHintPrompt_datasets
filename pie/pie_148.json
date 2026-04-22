@@ -1,0 +1,42 @@
+﻿{
+  "chart_id": "148",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_148.png"
+  },
+  "data_points": {
+    "Politics/ Policy": 58.6,
+    "Economic forces": 50.23,
+    "Greed/ Oil companies) Specula tion": 129.77,
+    "Wars/ Mideast unrest": 79.53,
+    "Other reasons": 41.86
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Politics/ Policy": "#f2f2f2",
+    "Economic forces": "#ff9896",
+    "Greed/ Oil companies) Specula tion": "#c7c7c7",
+    "Wars/ Mideast unrest": "#666666",
+    "Other reasons": "#dbdb8d"
+  }
+}

@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "166",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_166.png"
+  },
+  "data_points": {
+    "Digital books only": 25.2,
+    "Both print and digital books": 100.8,
+    "Print books only": 133.2,
+    "Don 't know/Refused": 3.6,
+    "No books": 97.2
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Digital books only": "#bcbd22",
+    "Both print and digital books": "#1b9e77",
+    "Print books only": "#fed9a6",
+    "Don 't know/Refused": "#b3de69",
+    "No books": "#ffbb78"
+  }
+}

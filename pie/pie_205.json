@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "205",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_205.png"
+  },
+  "data_points": {
+    "Air Force": 85.36,
+    "Coast  Guard": 51.96,
+    "Army": 133.61,
+    "Navy": 89.07
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Air Force": "#c49c94",
+    "Coast  Guard": "#98df8a",
+    "Army": "#c5b0d5",
+    "Navy": "#e6ab02"
+  }
+}

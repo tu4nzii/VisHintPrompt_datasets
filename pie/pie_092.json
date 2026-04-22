@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "092",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_092.png"
+  },
+  "data_points": {
+    "Don't know/ Ref": 94.55,
+    "Yes": 25.45,
+    "No": 240.0
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Don't know/ Ref": "#7f7f7f",
+    "Yes": "#66a61e",
+    "No": "#fbb4ae"
+  }
+}

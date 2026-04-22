@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "172",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_172.png"
+  },
+  "data_points": {
+    "Family sponsored immigrants  .": 38.82,
+    "Diversity visa program ,": 320.79,
+    "Other , .": 0.39
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Family sponsored immigrants  .": "#decbe4",
+    "Diversity visa program ,": "#7fc97f",
+    "Other , .": "#66a61e"
+  }
+}

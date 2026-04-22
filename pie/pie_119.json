@@ -1,0 +1,42 @@
+﻿{
+  "chart_id": "119",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_119.png"
+  },
+  "data_points": {
+    "Should not be allowed to stay legally": 56.84,
+    "Be eligible for permanent residency": 50.53,
+    "There should be a way for them to stay legally": 149.47,
+    "Be eligible for citizenship": 90.53,
+    "Don't know": 4.21
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Should not be allowed to stay legally": "#c7c7c7",
+    "Be eligible for permanent residency": "#fed9a6",
+    "There should be a way for them to stay legally": "#c5b0d5",
+    "Be eligible for citizenship": "#d95f02",
+    "Don't know": "#aec7e8"
+  }
+}

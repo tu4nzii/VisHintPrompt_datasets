@@ -1,0 +1,40 @@
+﻿{
+  "chart_id": "185",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_185.png"
+  },
+  "data_points": {
+    "Somewhat easy": 145.45,
+    "Somewhat difficult": 47.27,
+    "Very easy": 160.0,
+    "Very difficult": 7.27
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Somewhat easy": "#80b1d3",
+    "Somewhat difficult": "#8c564b",
+    "Very easy": "#fddaec",
+    "Very difficult": "#bf5b17"
+  }
+}

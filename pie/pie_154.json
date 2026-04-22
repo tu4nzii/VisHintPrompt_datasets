@@ -1,0 +1,32 @@
+﻿{
+  "chart_id": "154",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_154.png"
+  },
+  "data_points": {
+    "John Roberts": 280.0,
+    "Thurgood Marshall": 80.0
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "John Roberts": "#f0027f",
+    "Thurgood Marshall": "#beaed4"
+  }
+}

@@ -1,0 +1,34 @@
+﻿{
+  "chart_id": "072",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_072.png"
+  },
+  "data_points": {
+    "Asia (including & New Australia Zealand  millior": 33.34,
+    "Africa Latin America Middle East .  millior": 0.0,
+    "Europe (including Turkey Russia) and  million": 326.65
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Asia (including & New Australia Zealand  millior": "#66a61e",
+    "Africa Latin America Middle East .  millior": "#bebada",
+    "Europe (including Turkey Russia) and  million": "#fed9a6"
+  }
+}

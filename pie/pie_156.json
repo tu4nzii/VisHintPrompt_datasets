@@ -1,0 +1,42 @@
+﻿{
+  "chart_id": "156",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_156.png"
+  },
+  "data_points": {
+    "deal   Not too": 348.69,
+    "Some": 3.56,
+    "No answer": 0.09,
+    "A great deal": 2.01,
+    "Affecting community at least some": 5.66
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 270,
+  "center": [
+    520,
+    520
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "deal   Not too": "#fdb462",
+    "Some": "#1b9e77",
+    "No answer": "#ff9896",
+    "A great deal": "#9edae5",
+    "Affecting community at least some": "#666666"
+  }
+}

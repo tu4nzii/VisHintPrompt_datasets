@@ -1,0 +1,38 @@
+﻿{
+  "chart_id": "075",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_075.png"
+  },
+  "data_points": {
+    "Women": 159.46,
+    "Men": 14.5,
+    "Doesn't matter": 186.04
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 170,
+  "center": [
+    340,
+    340
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Women": "#8c564b",
+    "Men": "#d95f02",
+    "Doesn't matter": "#d9d9d9"
+  }
+}

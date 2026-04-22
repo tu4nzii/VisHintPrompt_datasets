@@ -1,0 +1,36 @@
+﻿{
+  "chart_id": "136",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_136.png"
+  },
+  "data_points": {
+    "Less than  years": 90.44,
+    "years or more": 269.56
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "60°",
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    60,
+    120,
+    180,
+    240,
+    300
+  ],
+  "series_color": {
+    "Less than  years": "#e6ab02",
+    "years or more": "#fdc086"
+  }
+}

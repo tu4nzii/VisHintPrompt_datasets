@@ -1,0 +1,32 @@
+﻿{
+  "chart_id": "214",
+  "image_paths": {
+    "no_grid": "charts/pie/pie_214.png"
+  },
+  "data_points": {
+    "Their job harder": 315.92,
+    "No difference": 44.08
+  },
+  "r_ticks": [],
+  "theta_ticks": [
+    "0°",
+    "90°",
+    "180°",
+    "270°"
+  ],
+  "r_pixels": 215,
+  "center": [
+    420,
+    420
+  ],
+  "theta_angles": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "series_color": {
+    "Their job harder": "#7570b3",
+    "No difference": "#ffed6f"
+  }
+}
